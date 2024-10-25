@@ -1,4 +1,4 @@
-![Alt text](firebox.svg)
+![Alt text](public/assets/banner.svg)
 ### Your Ultimate Digital Wallet for Social Media and Personal Valuables
 
 
